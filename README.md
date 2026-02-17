@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Gennaro — focused on building a strong foundation in cybersecurity.
+
+Currently learning how software runs, where systems fail, and how vulnerabilities emerge at the memory, OS, and network levels.  
+Building depth first — everything else follows.
+
 <!--
 **RetroLB/RetroLB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
