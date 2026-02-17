@@ -1,7 +1,9 @@
 ## Gennaro Adam La Bella
 
-Cybersecurity & Systems.
-Learning how computers actually work — and how they break.
+Aspiring Cybersecurity Engineer
+
+Focused on understanding how software runs, where systems fail, and how vulnerabilities emerge at the lowest levels.
+
 <!--
 **RetroLB/RetroLB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
