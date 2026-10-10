@@ -1,9 +1,28 @@
-## Gennaro Adam La Bella
+## Hello! 👋
 
-Aspiring Cybersecurity Engineer
+**`Aspiring SOC Analyst`**
 
-Focused on understanding how software runs, where systems fail, and how vulnerabilities emerge at the lowest levels.
+My name is Gennaro, working to break in as a SOC analyst - focused on detection and incident response.
 
+I learn by building: standing something up, attacking it on purpose, and then working out what the
+logs actually showed. Most of what's here is that process in the open — detections I've written and
+tuned, investigations worked start to finish, and notes where I've translated the jargon into
+something explainable out loud.
+
+Currently working toward CompTIA Security+, then SC-200. Building out a Microsoft Sentinel detection 
+lab — writing KQL analytics rules against simulated ATT&CK techniques and documenting each investigation 
+end to end.
+
+<p align="left">
+  <img alt="Google Cert" src="https://shields.io" />
+  <img alt="Security+ (Booked)" src="https://shields.io" />
+  <img alt="SC-200 (Planned)" src="https://shields.io" />
+  <img alt="TryHackMe" src="https://shields.io" />
+</p>
+
+---
+
+## 🛠️ Cybersecurity Portfolio Projects
 <!--
 **RetroLB/RetroLB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
